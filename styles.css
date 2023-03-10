@@ -1,1 +1,18 @@
 /* Write your CSS here! */
+div{
+    margin: 25px 50px 75px 25px;
+    /*padding: 50px 30px 50px 80px;*/
+}
+
+#col{
+    margin: 8px;
+    color: red;
+}
+
+.favoritetown{
+margin: 8px;
+}
+
+.funParagraph{
+    color: green;
+}
